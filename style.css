@@ -8,7 +8,12 @@ h1 {
 }
 
 marquee {
-  width=33%;
+  width: 27%;
+  margin: 3%;
   direction: left;
   scrollamount: 30;
+}
+
+p {
+  text-align: center;
 }
