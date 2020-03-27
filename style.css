@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+marquee {
+  width=33%;
+  direction: left;
+  scrollamount: 30;
+}
