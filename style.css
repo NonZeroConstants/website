@@ -10,7 +10,7 @@ h1 {
 marquee {
   width: 27%;
   margin: 3%;
-  direction: left;
+  direction: right;
   scrollamount: 30;
 }
 
