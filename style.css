@@ -7,11 +7,10 @@ h1 {
   text-align: center;
 }
 
-marquee {
+div {
   width: 27%;
   margin: 3%;
-  direction: right;
-  scrollamount: 30;
+  font-size: 20px;
 }
 
 p {
